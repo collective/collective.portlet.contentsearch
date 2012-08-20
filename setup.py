@@ -15,8 +15,8 @@ long_description = (
 
 setup(
     name='collective.portlet.contentsearch',
-    version='0.1.6',
-    description="Search portlet for selected content types.",
+    version='0.2',
+    description="Adds content search portlet for Plone..",
     long_description=long_description,
     # Get more strings from http://www.python.org/pypi?%3Aaction=list_classifiers
     classifiers=[
